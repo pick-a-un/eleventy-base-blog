@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Desperados: Wanted Dead or Alive",
+  "url": "https://ynotyout.com/",
+  "description": "I am writing about my experiences as a Speedrunner in Desperados: Wanted Dead or Alive.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as a Speedrunner in Desperados: Wanted Dead or Alive.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://ynotyout.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "ynotyout",
+    "email": "ynotyout@gmail.com"
   }
 }
