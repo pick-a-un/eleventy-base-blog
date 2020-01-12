@@ -5,7 +5,7 @@ form {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
   background: #f39c12;
   padding: 32px;
   color:white;
@@ -31,7 +31,7 @@ select::-ms-expand {
 }
 
 /* Custom Select */
-.select {
+.select, textarea, input {
   position: relative;
   display: flex;
   width: 20em;
@@ -41,12 +41,14 @@ select::-ms-expand {
   overflow: hidden;
   border-radius: .25em;
 }
+
 select {
   flex: 1;
   padding: 0 .5em;
   color: #fff;
   cursor: pointer;
 }
+
 /* Arrow */
 .select::after {
   content: '\25BC';
