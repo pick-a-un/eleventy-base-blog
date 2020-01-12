@@ -64,7 +64,7 @@ select {
   color: #f39c12;
 }
 
-button.3d-btn {
+button {
    font-size: 16px;
    background: #5cbcf6;
     border: none;
@@ -80,7 +80,7 @@ transparent;
 -moz-transform-style: preserve-3d;
 transform-style: preserve-3d;}
 
-button.3d-btn::after {
+button::after {
     width: 100%;
     height: 42%;
     left: 0;
@@ -103,7 +103,7 @@ z-index: -1;
 transition: all 0.3s;
 }
 
-button.3d-btn:active, button.3d-btn:hover {
+button:active, button:hover {
     -webkit-transform: rotateX(0deg);
     -moz-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);
