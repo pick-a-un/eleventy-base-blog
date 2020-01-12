@@ -8,20 +8,6 @@ form {
   max-width: 960px;
 }
 
-.select, textarea, input {
-    position: relative;
-    display: flex;
-    max-width: 100%;
-    height: 3em;
-    line-height: 3;
-    background: 
-    #2c3e50;
-    overflow: hidden;
-    border-radius: .25em;
-    padding: 0px .5em;
-    width: 25em;
-}
-
 textarea {max-width: 100%;}
 
 /* Remove IE arrow */
@@ -29,17 +15,18 @@ select::-ms-expand {
   display: none;
 }
 
-/* Custom Select */
 .select, textarea, input {
-  position: relative;
-  display: flex;
-  width: 20em;
-  max-width: 100%;
-  height: 3em;
-  line-height: 3;
-  background: #2c3e50;
-  overflow: hidden;
-  border-radius: .25em;
+    position: relative;
+    display: flex;
+    max-width: 100%;
+    height: 3em;
+    line-height: 3;
+    background: #2c3e50;
+    overflow: hidden;
+    border-radius: .25em;
+    padding: 0px .5em;
+    width: 25em;
+    color: white;
 }
 
 textarea {height: 6em; width: 40em;}
