@@ -36,9 +36,11 @@ eleventyNavigation:
   <p>
     <label>Message: <textarea name="message" maxlength="512" required></textarea></label>
   </p>
-  <input type="file"></input>
+  <p class="file">
+        <input name="image" type="file" id="file" class="feedback-input">
+  </p>
   <p>
-    <button class="3d-btn" type="submit" value="submit the form">Send</button>
+    <button class="btn-push-effect" type="submit" value="submit the form">Send</button>
   </p>
 </form>
 
