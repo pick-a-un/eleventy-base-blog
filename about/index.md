@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 <p>I am a person that writes stuff. Sometime that stuff is fluff.</p>
-<strong>Want to get it <span class="grab">touch</span> with me?</strong>
+<strong>Want to get it <span class="grab">touch</span>?</strong>
 <p>Just drop me some lines</p>
 <form name="contact" method="POST" data-netlify="true">
 <img src='/img/logo-ynotyout-solid.svg' alt='ynotyout-logo'>
@@ -38,7 +38,7 @@ eleventyNavigation:
   </p>
   <input type="file"></input>
   <p>
-    <button type="submit" value="submit the form">Send</button>
+    <button class="3d-bnt" type="submit" value="submit the form">Send</button>
   </p>
 </form>
 
