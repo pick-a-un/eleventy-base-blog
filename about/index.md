@@ -25,7 +25,8 @@ eleventyNavigation:
       <option value="follower">Follower</option>
       <option value="leader">Leader</option>
       <option value="folder">Folder</option>
-      <option value="folder">lower Lea</option>
+      <option value="lowerlea">lower Lea</option>
+      <option value="none">None of the above!</option>
     </select>
    </label>
   </div>
