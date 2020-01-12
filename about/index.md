@@ -28,8 +28,8 @@ eleventyNavigation:
       <option value="lowerlea">lower Lea</option>
       <option value="none">None of the above</option>
     </select>
-   </label>
   </div>
+  </label>
   </p>
   <p class="vh">
     <label>Your enquiry<input name="bot-field" /></label>
