@@ -17,11 +17,13 @@ eleventyNavigation:
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
+    <label class="select">Your Role: <select name="role[]" multiple  id="slct">
+      <option selected disabled>Choose an option</option>
       <option value="follower">Follower</option>
       <option value="leader">Leader</option>
       <option value="folder">Folder</option>
-    </select></label>
+    </select>
+  </label>
   </p>
   <p class="vh">
     <label>Your enquiry<input name="bot-field" /></label>
