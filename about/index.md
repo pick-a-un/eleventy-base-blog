@@ -40,7 +40,7 @@ eleventyNavigation:
         <input name="image" type="file" id="file" class="feedback-input">
   </p>
   <p>
-    <button class="btn-push-effect" type="submit" value="submit the form">Send</button>
+    <button class="push-btn" type="submit" value="submit the form">Send</button>
   </p>
 </form>
 
