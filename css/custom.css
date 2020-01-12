@@ -6,6 +6,7 @@ form {
   padding: 24px;
   color:white;
   max-width: 960px;
+  font-size: 16px;
 }
 
 textarea {max-width: 100%;}
@@ -16,6 +17,7 @@ select::-ms-expand {
 }
 
 .select, textarea, input {
+    margin: 2em 0em;
     position: relative;
     display: flex;
     max-width: 100%;
@@ -23,11 +25,12 @@ select::-ms-expand {
     line-height: 3;
     background: #2c3e50;
     overflow: hidden;
-    border-radius: .25em;
+    border-radius: .3em;
     padding: 0px .5em;
     width: 25em;
     color: white;
     border: none;
+    font-size: 16px;
 }
 
 textarea {height: 6em; width: 40em;}
@@ -38,6 +41,8 @@ select {
   padding: 0 .5em;
   color: #fff;
   cursor: pointer;
+  border: none;
+  font-size: 16px;
 }
 
 /* Arrow */
@@ -60,9 +65,10 @@ select {
 }
 
 button {
+   font-size: 16px;
    background: #5cbcf6;
     border: none;
-    padding: 1.6em 2.4em;
+    padding: 1.2em 2.4em;
     -webkit-transform: rotateX(-15deg);
     -moz-transform: rotateX(-15deg);
     -ms-transform: rotateX(-15deg);
