@@ -1,19 +1,14 @@
 .vh {display: none;}
 .grab {cursor: -webkit-grab; cursor: grab;}
 
-body {
+form {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   background: #f39c12;
-}
-
-form {
-    padding: 32px;
-    background: #667B8F;
-    color:white;
+  padding: 32px;
+  color:white;
 }
 
 select, input, textarea {
