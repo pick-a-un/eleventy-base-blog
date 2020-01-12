@@ -11,8 +11,9 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
 ## Section Header
-
+<div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gg_Lw-a9buc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ``` text/2-3
 // this is a command
