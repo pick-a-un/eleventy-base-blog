@@ -2,10 +2,6 @@
 .grab {cursor: -webkit-grab; cursor: grab;}
 
 form {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: left;
   background: #f39c12;
   padding: 24px;
   color:white;
