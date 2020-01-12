@@ -35,7 +35,7 @@ eleventyNavigation:
     <label>Your enquiry<input name="bot-field" /></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Message: <textarea name="message" maxlength="512"></textarea></label>
   </p>
   <input type="file"></input>
   <p>
