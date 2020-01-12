@@ -1,5 +1,4 @@
 .vh {display: none;}
-
 .grab {cursor: -webkit-grab; cursor: grab;}
 
 body {
@@ -11,21 +10,29 @@ body {
   background: #f39c12;
 }
 
-select {
+form {
+    padding: 32px;
+    background: #667B8F;
+    color:white;
+}
+
+select, input, textarea {
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
   appearance: none;
   outline: 0;
   box-shadow: none;
-  border: 0 !important;
+  border: 0;
   background: #2c3e50;
   background-image: none;
 }
+
 /* Remove IE arrow */
 select::-ms-expand {
   display: none;
 }
+
 /* Custom Select */
 .select {
   position: relative;
