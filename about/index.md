@@ -12,6 +12,7 @@ eleventyNavigation:
 <p>Just drop me some lines</p>
 <form name="contact" method="POST" data-netlify="true">
 <img src='/img/logo-ynotyout-solid.svg' alt='ynotyout-logo'>
+<h2>Contact Form</h2>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
