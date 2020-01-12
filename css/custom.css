@@ -1,5 +1,7 @@
 .vh {display: none;}
 
+.grab {cursor: -webkit-grab; cursor: grab;}
+
 body {
   display: flex;
   flex-direction: column;
