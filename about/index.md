@@ -20,7 +20,7 @@ eleventyNavigation:
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role:<select name="role[]" id="slct">
+    <label class="select">Your Role:<select name="role[]" id="slct">
       <option selected disabled>Choose an option</option>
       <option value="follower">Follower</option>
       <option value="leader">Leader</option>
