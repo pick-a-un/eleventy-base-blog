@@ -10,8 +10,8 @@ eleventyNavigation:
 <p>I am a person that writes stuff. Sometime that stuff is fluff.</p>
 <strong>Want to get it <span class="grab">touch</span> with me?</strong>
 <p>Just drop me some lines</p>
-<img src='/img/logo-ynotyout-solid.svg' alt='ynotyout-logo'>
 <form name="contact" method="POST" data-netlify="true">
+<img src='/img/logo-ynotyout-solid.svg' alt='ynotyout-logo'>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
