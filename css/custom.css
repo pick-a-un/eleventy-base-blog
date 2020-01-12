@@ -9,6 +9,7 @@ form {
   background: #f39c12;
   padding: 32px;
   color:white;
+  max-width: 960px;
 }
 
 select, input, textarea {
