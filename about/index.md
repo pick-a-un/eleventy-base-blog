@@ -20,7 +20,8 @@ eleventyNavigation:
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role: <div class="select"><select name="role[]" id="slct">
+    <div class="select">
+    <label>Your Role:<select name="role[]" id="slct">
       <option selected disabled>Choose an option</option>
       <option value="follower">Follower</option>
       <option value="leader">Leader</option>
@@ -28,8 +29,8 @@ eleventyNavigation:
       <option value="lowerlea">lower Lea</option>
       <option value="none">None of the above</option>
     </select>
+   </label>
   </div>
-  </label>
   </p>
   <p class="vh">
     <label>Your enquiry<input name="bot-field" /></label>
