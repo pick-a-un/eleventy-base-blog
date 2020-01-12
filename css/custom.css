@@ -1,5 +1,14 @@
 .vh {display: none;}
 
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f39c12;
+}
+
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
