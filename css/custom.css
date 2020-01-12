@@ -95,8 +95,7 @@ button::after {
     height: 42%;
     left: 0;
     top: -40%;
-    background: 
-    #49a7df;
+    background: #3F728C;
     -webkit-transform-origin: 0% 100%;
     -webkit-transform: rotateX(90deg);
     -moz-transform-origin: 0% 100%;
@@ -118,7 +117,7 @@ button:active, button:hover {
     -moz-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);
     transform: rotateX(0deg);
-    background: #55b7f3;
+    background: #81b5d1;
     cursor: -webkit-pointer; 
     cursor: pointer;
     
