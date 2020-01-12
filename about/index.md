@@ -38,7 +38,7 @@ eleventyNavigation:
   </p>
   <input type="file"></input>
   <p>
-    <button class="3d-bnt" type="submit" value="submit the form">Send</button>
+    <button class="3d-btn" type="submit" value="submit the form">Send</button>
   </p>
 </form>
 
