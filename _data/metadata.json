@@ -1,9 +1,9 @@
 {
-  "title": "Desperados: Wanted Dead or Alive",
+  "title": "YNOTYOUT",
   "url": "https://ynotyout.com/",
-  "description": "I am writing about my experiences as a Speedrunner in Desperados: Wanted Dead or Alive.",
+  "description": "I am writing about Speedruns",
   "feed": {
-    "subtitle": "I am writing about my experiences as a Speedrunner in Desperados: Wanted Dead or Alive.",
+    "subtitle": "I am writing about Speedruns",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://ynotyout.com/"
