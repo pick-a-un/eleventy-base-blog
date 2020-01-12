@@ -1,10 +1,20 @@
+/* 
+Blue	
+#061722
+#0a5a77
+#81b5d1
+#d1cdc3
+#854c3b
+*/
+
+
 .vh {display: none;}
 .grab {cursor: -webkit-grab; cursor: grab;}
 
 form {
-  background: #f39c12;
+  background: #d1cdc3;
   padding: 24px;
-  color:white;
+  color: dark grey;
   max-width: 960px;
   font-size: 16px;
 }
