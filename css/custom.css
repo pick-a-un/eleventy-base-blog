@@ -7,14 +7,6 @@ Blue
 #854c3b
 */
 
-.parent {
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: repeat(2, 1fr);
-grid-column-gap: 1em;
-grid-row-gap: 1em;
-} 
-
 .vh {display: none;}
 .grab {cursor: -webkit-grab; cursor: grab;}
 
