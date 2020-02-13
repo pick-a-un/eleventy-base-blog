@@ -6,11 +6,11 @@ tags:
   - desperados: wanted dead or alive
 layout: layouts/post.njk
 ---
+## Mission 2: Southern Comfort
+
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQLzjo39aYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
-
-## Section Header
 
 <a href="{{ '/posts/dwdoa-first-level/' | url }}">First level</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
