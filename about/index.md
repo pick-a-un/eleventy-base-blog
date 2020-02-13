@@ -10,7 +10,9 @@ eleventyNavigation:
 <p>I am a person that writes stuff. Sometime that stuff is fluff.</p>
 <strong>Want to buy me some coffee?</strong>
 <p>
-<button class="push-btn" type="submit" value="submit the form"><a target="_blank" href="https://www.buymeacoffee.com/ynotyout">☕ Buy me some coffee</span></a></button>
+<a target="_blank" href="https://www.buymeacoffee.com/ynotyout">
+<button class="push-btn" type="submit" value="submit some bucks for a coffee">☕ Buy me some coffee</span></button>
+</a>
 </p>
 <strong>Want to get it <span class="grab">touch</span>?</strong>
 <p>Just drop me some lines</p>
