@@ -151,35 +151,3 @@ form p:last-of-type {
     height: 100%;
 }
 }
-
-.bmc-button img{height: 34px !important;
-  width: 35px !important;
-  margin-bottom: 1px !important;
-  box-shadow: none !important;
-  border: none !important;
-  vertical-align: middle !important;}
-
-.bmc-button{padding: 7px 10px 7px 10px !important;l
-  ine-height: 35px;
-  height:51px;
-  min-width:217px;
-  text-decoration: none;
-  display:inline-flex;
-  color:#ffffff;
-  background-color:#000000;
-  border-radius: 5px;
-  border: 1px solid transparent;
-  padding: 7px 10px 7px 10px;
-  font-size: 20px;
-  letter-spacing:-0.08px !important;
-  box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;
-  margin: 0 auto !important;font-family:'Lato', sans-serif !important;
-  -webkit-box-sizing: border-box !important;
-  box-sizing: border-box !important;-o-transition: 0.3s all linear !important;
-  -webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;
-  -ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, 
-
-.bmc-button:active, .bmc-button:focus {
-  -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
-  text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
-  opacity: 0.85 !important;color:#ffffff !important;}
