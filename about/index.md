@@ -8,6 +8,10 @@ eleventyNavigation:
 ---
 
 <p>I am a person that writes stuff. Sometime that stuff is fluff.</p>
+<strong>Want to buy me some coffee?</strong>
+<p>
+<button class="push-btn" type="submit" value="submit the form"><a target="_blank" href="https://www.buymeacoffee.com/ynotyout">☕ Buy me some coffee</span></a></button>
+</p>
 <strong>Want to get it <span class="grab">touch</span>?</strong>
 <p>Just drop me some lines</p>
 <form name="contact" method="POST" data-netlify="true">
@@ -43,8 +47,4 @@ eleventyNavigation:
     <button class="push-btn" type="submit" value="submit the form">Send</button>
   </p>
 </form>
-<strong>Want to buy me some coffee?</strong>
-<p>
-<button class="push-btn" type="submit" value="submit the form"><a target="_blank" href="https://www.buymeacoffee.com/ynotyout">☕ Buy me a coffee</span></a></button>
-</p>
 
