@@ -45,6 +45,6 @@ eleventyNavigation:
 </form>
 <strong>Want to buy me some coffee?</strong>
 <p>
-<button class="push-btn" type="submit" value="submit the form"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/ynotyout"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee">Buy me a coffee</span></a></button>
+<button class="push-btn" type="submit" value="submit the form"><a target="_blank" href="https://www.buymeacoffee.com/ynotyout">☕ Buy me a coffee</span></a></button>
 </p>
 
