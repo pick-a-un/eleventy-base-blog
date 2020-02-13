@@ -43,4 +43,6 @@ eleventyNavigation:
     <button class="push-btn" type="submit" value="submit the form">Send</button>
   </p>
 </form>
+<strong>Want to buy me some coffee?</strong>
+<link href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/ynotyout"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:19px !important;">Buy me a coffee</span></a>
 
